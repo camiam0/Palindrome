@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Palindrome {
     public static void main(String[] args) {
         
+        //scanner for user input
         Scanner input = new Scanner(System.in);
         
         //introduces the program to the user
